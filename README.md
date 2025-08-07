@@ -15,6 +15,19 @@
 
 ###
 
+
+
+![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift)
+![Xcode](https://img.shields.io/badge/-Xcode-blue?logo=xcode)
+![HealthKit](https://img.shields.io/badge/-HealthKit-lightgrey?logo=apple)
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![SPSS](https://img.shields.io/badge/-SPSS-blue)
+![SQL](https://img.shields.io/badge/-SQL-grey?logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-red?logo=figma)
+
+
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
   <img width="12" />
