@@ -7,8 +7,6 @@ I'm Wafa — a mathematician and statistician moving into **data and business an
 - 📊 I turn data into clear, decision-ready insight using SQL, Python, and Power BI
 - 📐 My foundation is mathematics, statistics, and **statistical modeling** — I don't just visualize data, I test what's driving it
 - 🔭 Transitioning from academia into data analytics / business analysis roles
-- 🎓 Studying for the **Microsoft PL-300 (Power BI Data Analyst)**
-- 🌍 I work in both Arabic and English
 
 ## 🛠 Favorite tools
 
@@ -31,13 +29,13 @@ I'm Wafa — a mathematician and statistician moving into **data and business an
 - Intro to machine learning — supervised & unsupervised
 
 **SQL & databases**
-- MySQL, PostgreSQL, Google BigQuery
+- MySQL, PostgreSQL
 
 **Business intelligence**
 - Power BI (DAX), Tableau
 
 **Tools**
-- Jupyter, Google Colab, DBeaver, Git & GitHub
+- Jupyter, Google Colab, Git & GitHub
 
 ---
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wafa-almutairi-02322b421/)
