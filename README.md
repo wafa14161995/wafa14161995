@@ -1,21 +1,41 @@
+# Hi there 👋
 
-<h1 align="left">hey there 👋</h1>
+## 👩‍💻 About Me
 
-###
+I'm Wafa — a mathematician and statistician moving into **data and business analysis**.
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 📊 I turn data into clear, decision-ready insight using SQL, Python, and Power BI
+- 📐 My foundation is mathematics, statistics, and quantitative analysis
+- 🔭 Transitioning from academia into data analytics / business analysis roles
+- 🎓 Studying for the **Microsoft PL-300 (Power BI Data Analyst)**
+- 🌍 I work in both Arabic and English
 
-###
+## 🛠 Favorite tools
 
-<p align="left">I'm Wafa<br><br>- 📊 Data Analyst — mathematics & statistics background <br>- 🛠 SQL · Python · Power BI (DAX) · Tableau · R. SPSS</p>
+**Python · SQL · Power BI · Tableau · R**
 
-###
+## 📚 Learning path
 
-<h3 align="left">🛠 Language and tools</h3>
+**Data analysis**
+- Python — Pandas, NumPy, Matplotlib, Seaborn
+- R & RStudio
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization & storytelling
+- Statistical analysis & A/B testing
+- Intro to machine learning — supervised & unsupervised
 
-###
+**SQL & databases**
+- MySQL, PostgreSQL, Google BigQuery
 
+**Business intelligence**
+- Power BI (DAX), Tableau
 
+**Tools**
+- Jupyter, Google Colab, DBeaver, Git & GitHub
+
+---
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wafa-almutairi-02322b421/)
 
 ![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift)
 ![Xcode](https://img.shields.io/badge/-Xcode-blue?logo=xcode)
