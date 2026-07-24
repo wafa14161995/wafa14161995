@@ -5,7 +5,7 @@
 I'm Wafa — a mathematician and statistician moving into **data and business analysis**.
 
 - 📊 I turn data into clear, decision-ready insight using SQL, Python, and Power BI
-- 📐 My foundation is mathematics, statistics, and quantitative analysis
+- 📐 My foundation is mathematics, statistics, and **statistical modeling** — I don't just visualize data, I test what's driving it
 - 🔭 Transitioning from academia into data analytics / business analysis roles
 - 🎓 Studying for the **Microsoft PL-300 (Power BI Data Analyst)**
 - 🌍 I work in both Arabic and English
@@ -16,13 +16,18 @@ I'm Wafa — a mathematician and statistician moving into **data and business an
 
 ## 📚 Learning path
 
+**Statistical modeling**
+- Regression — linear & logistic
+- Hypothesis testing — t-tests, ANOVA, chi-square
+- A/B testing & experimental design
+- Correlation vs. causation, effect sizes, significance
+
 **Data analysis**
 - Python — Pandas, NumPy, Matplotlib, Seaborn
 - R & RStudio
 - Data cleaning & preprocessing
 - Exploratory Data Analysis (EDA)
 - Data visualization & storytelling
-- Statistical analysis & A/B testing
 - Intro to machine learning — supervised & unsupervised
 
 **SQL & databases**
