@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Wafa<br><br>- 🔭 I’m working as iOS Developer full stack<br>- 📚 I'm currently learning  Python, SQL and SPSS</p>
+<p align="left">I'm Wafa<br><br>- 📊 Data Analyst — mathematics & statistics background <br>- 🛠 SQL · Python · Power BI (DAX) · Tableau · R. SPSS</p>
 
 ###
 
