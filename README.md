@@ -51,7 +51,7 @@ I'm Wafa, a mathematician and statistician working in **data engineering and dat
 - Jupyter, Google Colab, Databricks, Git & GitHub
 
 ---
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wafa-almutairi-02322b421/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/wafa-alshatri-02322b421/)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
