@@ -1,4 +1,4 @@
-# Hi, I'm Wafa 👋
+# Hey, I'm Wafa
 ### Data Science · Data Analysis · Data Engineering
 
 Turning raw data into meaningful insights through mathematics, statistics, and data engineering.
