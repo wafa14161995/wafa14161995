@@ -1,8 +1,7 @@
 # Hi, I'm Wafa 👋
 ### Data Science · Data Analysis · Data Engineering
 
-📐 Mathematics & statistics background.  
-🏗️ Building data pipelines and turning raw data into actionable insights.
+Turning raw data into meaningful insights through mathematics, statistics, and data engineering.
 
 ## 🛠️ Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -22,4 +21,5 @@
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-📫 [LinkedIn](https://www.linkedin.com/in/wafa-almutairi-02322b421/)
+📫 [LinkedIn]([https://www.linkedin.com/in/wafa-almutairi-02322b421/](https://www.linkedin.com/in/wafa-alshatri-02322b421/)
+
